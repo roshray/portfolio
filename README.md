@@ -1,3 +1,39 @@
+ 
+
+<div align="center">    
+ 
+# verseNet 
+
+
+</div>
+ 
+## Description   
+What it does   
+
+## How to run   
+First, install dependencies   
+```bash
+# clone project   
+git clone https://github.com/roshray/ganaws
+
+# install project   
+cd deep-learning-project-template 
+pip install -e .   
+pip install -r requirements.txt
+ ```   
+ Next, navigate to any file and run it.   
+ ```bash
+# module folder
+cd project
+
+# run module (example: mnist as your main contribution)   
+python lit_classifier_main.py    
+```
+
+## Imports
+This project is setup as a package which means you can now easily import any file into any other file like so:
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
